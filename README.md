@@ -1,0 +1,1 @@
+# Tool for picking HSV color range for image
